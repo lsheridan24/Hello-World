@@ -14,12 +14,13 @@ First Repository
 
 
 ### Test
-* Using Italicized text right here*
+*Using Italicized text right here*
 
 
 ## Description 
 Here's a code I wrote:
-'import random
+'
+import random
 
 number_of_rolls = 0
 
@@ -33,4 +34,5 @@ while True:
     if roll == 6:
         break
 
-print("Number of rolls: ", number_of_rolls)'
+print("Number of rolls: ", number_of_rolls)
+'
