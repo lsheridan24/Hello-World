@@ -11,4 +11,26 @@ First Repository
 - [Versioning](Versioning)
 
 
+
+
 ### Test
+* Using Italicized text right here*
+
+
+## Description 
+Here's a code I wrote:
+'import random
+
+number_of_rolls = 0
+
+while True:
+    roll = random.randint(1,6)
+    
+    print(roll)
+    
+    number_of_rolls += 1
+    
+    if roll == 6:
+        break
+
+print("Number of rolls: ", number_of_rolls)'
